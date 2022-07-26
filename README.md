@@ -1,2 +1,2 @@
 # clock
-Este projeto apresenta um relógio que apresenta a hora atual
+Este projeto apresenta um relógio analógio que apresenta a hora atual
